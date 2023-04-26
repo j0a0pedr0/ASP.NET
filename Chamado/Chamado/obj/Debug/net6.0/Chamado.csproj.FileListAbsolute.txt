@@ -1,0 +1,15 @@
+C:\Users\joaop\source\repos\Chamado\Chamado\bin\Debug\net6.0\Chamado.exe
+C:\Users\joaop\source\repos\Chamado\Chamado\bin\Debug\net6.0\Chamado.deps.json
+C:\Users\joaop\source\repos\Chamado\Chamado\bin\Debug\net6.0\Chamado.runtimeconfig.json
+C:\Users\joaop\source\repos\Chamado\Chamado\bin\Debug\net6.0\Chamado.dll
+C:\Users\joaop\source\repos\Chamado\Chamado\bin\Debug\net6.0\Chamado.pdb
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.AssemblyInfo.cs
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.dll
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\refint\Chamado.dll
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.pdb
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\Chamado.genruntimeconfig.cache
+C:\Users\joaop\source\repos\Chamado\Chamado\obj\Debug\net6.0\ref\Chamado.dll

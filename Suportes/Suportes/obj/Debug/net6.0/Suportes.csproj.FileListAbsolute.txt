@@ -1,0 +1,15 @@
+C:\Users\joaop\source\repos\Suportes\Suportes\bin\Debug\net6.0\Suportes.exe
+C:\Users\joaop\source\repos\Suportes\Suportes\bin\Debug\net6.0\Suportes.deps.json
+C:\Users\joaop\source\repos\Suportes\Suportes\bin\Debug\net6.0\Suportes.runtimeconfig.json
+C:\Users\joaop\source\repos\Suportes\Suportes\bin\Debug\net6.0\Suportes.dll
+C:\Users\joaop\source\repos\Suportes\Suportes\bin\Debug\net6.0\Suportes.pdb
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.AssemblyInfo.cs
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.dll
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\refint\Suportes.dll
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.pdb
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\Suportes.genruntimeconfig.cache
+C:\Users\joaop\source\repos\Suportes\Suportes\obj\Debug\net6.0\ref\Suportes.dll
